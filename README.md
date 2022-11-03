@@ -32,7 +32,7 @@ GitHub account
 
 ## Live link
 
-Click me
+https://mininetflixapp.herokuapp.com/
 
 ## Support and contact details
 
