@@ -6,7 +6,7 @@ A Simple Movie app that uses the amdbapi that users of my app can use to search 
 
 ### Author
 
-**Faith Njoki Muthoni** - [Github link](https://github.com/faithnjoki/mini-Netflix)
+**Faith Njoki Muthoni** - [Github link](https://github.com/faithnjoki/mininetflix-)
 
 ### Prerequisites
 
